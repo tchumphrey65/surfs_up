@@ -1,6 +1,6 @@
 # Surfs_up!!
 
-## Oahu Hawaii weather data analysis for location viability of potential of "surf and scoop shop" business.
+### Oahu Hawaii weather data analysis for location viability of potential of "surf and scoop shop" business.
 
 ### Project overview
 
