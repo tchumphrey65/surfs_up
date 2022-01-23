@@ -28,7 +28,6 @@
 
 ![image](https://user-images.githubusercontent.com/91839403/150693467-c5937f39-5598-4e9a-b249-185a5d1156fc.png)
 
-### Results
 #### December (Deliverable 2)
  - Average Temperature = 71.0 deg F
  - Maximum Temperature = 83.0 deg F
