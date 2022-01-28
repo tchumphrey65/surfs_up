@@ -19,7 +19,27 @@
  - Software: Python 3.7.9 64-bit (conda); jupyter-notebook : 6.1.4
  - SQLite Database
 
-### Results
+## Results
+
+### June
+The following Query retrieves June temperatures
+
+![image](https://user-images.githubusercontent.com/91839403/151634656-dfb7f2e4-92b8-47da-86c0-dc429fc96e39.png)
+
+The June temperature data is then converted to a list
+
+![image](https://user-images.githubusercontent.com/91839403/151634769-371e659f-6a36-4916-8018-c65ecba0c67a.png)
+
+The June data is then converted to a data frame
+
+![image](https://user-images.githubusercontent.com/91839403/151634826-d9139778-ade1-405e-9497-f7b1a0f8ae27.png)
+
+
+
+
+
+
+
 #### June (Deliverable 1)
  - Average Temperature = 74.9 deg F
  - Maximum Temperature = 85.0 deg F
@@ -49,8 +69,13 @@ Comparison table:
 The analysis of the temperature data points in June and December for Oahu, Hawaii shows consistent maximum and average temperatures for these months. aThis consistency would indicate that this location is favorable for year round surfing and support the year round operatiuon of the "Surf and Scoop" business.
 
 Additional Queries to perform to validate this decision:
-1) Additional Years: Trend and Compare June through December over several years to verify this year is not an outlier.
-2) Additional Months: Look at average temperature month by month over 3-4 years and chart the data.  This would help vlaidate that June and December are the best months to use for this analysis.
-3) Additional Weather: We know that precipitation is another available weather parameter.  We should query and compary days of precipitation for validate.  We could add wind to this as well.
+1) Additional Years: Trend and Compare June average Temperature over multiple years to validate results.  The data below shows the average temperature in June is consistent over several years and does support the business over time in June
 
+![image](https://user-images.githubusercontent.com/91839403/151636128-813f92e1-3111-42d4-9d82-7c7b2d2b890b.png)
+
+
+
+1) Additional Years: Trend and Compare December average Temperature over multiple years to validate results.  The data below shows the average temperature in December is also consistent over several years and does support the business over time in December
+
+![image](https://user-images.githubusercontent.com/91839403/151635898-b9d180ed-17cd-4482-8f3b-4a1a93c3c2b7.png)
 
